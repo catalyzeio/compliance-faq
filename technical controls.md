@@ -2,7 +2,7 @@
 
 Catalyze encrypts all data in transit and at rest. The only form of communication Catalyze supports for customers is SSL, and Catalyze encrypts all data within its network using TLS version 1.2. For data at rest we use 4096-bit RSA key pair to protect the data. Our data integrity policy is [here][1].
 
-# How does Catalyze you delete data?
+# How does Catalyze delete data?
 
 When servers are decommissioned, we unmount the encrypted volume and wipe the underlying raw block storage volume prior to deleting the block storage resource. Part of the wiping process is writing over the existing customer data to assure no future access.
 
