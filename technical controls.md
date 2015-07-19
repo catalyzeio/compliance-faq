@@ -47,7 +47,7 @@ Yes, Catalyze performs external penetration tests annually. Additionally, intern
 
 Yes, we leverage perimeter detection of DOS attacks. We automate blocking of IP addresses found to be attempting DOS attacks. Our DOS policy is outlined [here][10].
 
-# Are perimeter firewall used? How are they configured?
+# Are perimeter firewalls used? How are they configured?
 
 To restrict access to the bare minimum required, redundant, dedicated hardware firewalls are set up to deny all requests by default. Ports have to be opened specifically to cater to specific application and database needs. These hardware firewalls are deployed in a Virginia data center. SSH connections and direct serial port access are the only way to access firewalls.
 
