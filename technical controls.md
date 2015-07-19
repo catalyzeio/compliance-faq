@@ -20,7 +20,7 @@ Yes, Catalyze has a disaster recovery plan outlined [here][4]. The disaster reco
 
 # What is the general process for keeping operating systems up to date?
 
-We track and subscribe to lists (email and other notifications) published by vendors, OS, and framework developers to track vulnerabilities as discovered. Ubuntu is the base OS run in our netwworks. Updates published by Canonical (for example) are deployed as approved post application testing. Application level security patches and services packs are also deployed after testing. Other vulnerabilities / CVEs are also tracked such as pertaining to SSL/TLS, NGINX etc.
+We track and subscribe to lists (email and other notifications) published by vendors, OS, and framework developers to track vulnerabilities as discovered. Ubuntu is the base OS run in our networks. Updates published by Canonical (for example) are deployed as approved post application testing. Application level security patches and services packs are also deployed after testing. Other vulnerabilities / CVEs are also tracked such as pertaining to SSL/TLS, NGINX etc.
 
 The recent POODLE, GHOST and FREAK vulnerabilities exposed were either patched immediately after testing to ensure minimal impact (where there was expected impact, that was communicated so customers could take steps to resolve). All of these follow the same Risk Assessment process described earlier.
 
