@@ -56,7 +56,7 @@ To restrict access to the bare minimum required, redundant, dedicated hardware f
 [2]:	mailto:sales@catalyze.io
 [3]:	https://policy.catalyze.io/#backup-policy-and-procedures
 [4]:	https://policy.catalyze.io/#disaster-recovery-policy
-[5]:	%20https://policy.catalyze.io/#risk-management-policy
+[5]:	https://policy.catalyze.io/#risk-management-policy
 [6]:	https://policy.catalyze.io/#intrusion-detection-policy
 [7]:	http://www.tenable.com/products/nessus-vulnerability-scanner
 [8]:	https://policy.catalyze.io/#vulnerability-scanning-policy97
