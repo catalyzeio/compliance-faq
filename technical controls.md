@@ -12,7 +12,7 @@ All Catalyze data centers are currently located within the continental United St
 
 # How does Catalyze back up data for customers?
 
-Backups for all customers are performed daily. 7 days of backups are retained. This is documented in more detail [here][3]. Backups are sent to a different site. Disaster recovery related details are outlined here - https://policy.catalyze.io/#disaster-recovery-policy. 
+Backups for all customers are performed daily. Seven days of backups are retained. This is documented in more detail [here][3]. Backups are sent to a different site. Disaster recovery related details are outlined here - https://policy.catalyze.io/#disaster-recovery-policy. 
 
 # Does Catalyze have a disaster recovery plan in place?
 
