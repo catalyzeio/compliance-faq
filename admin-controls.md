@@ -6,7 +6,7 @@ You can find the current version of the Catalyze ISMP [here][1].
 
 # Who is the Catalyze Security Officer?
 
-The current Catalyze Security Officer is Ben Uphoff (ben@catalyze.io). Dr. Uphoff oversees the technical aspects of HIPAA at Catalyze.
+The current Catalyze Security Officer is Adam Leko (adam@catalyze.io). Adam oversees the technical aspects of HIPAA at Catalyze.
 
 In addition, Catalyze also has a Privacy Officer. The current Privacy Officer is Travis Good (travis@catalyze.io). Dr. Good oversees the administrative aspects of HIPAA at Catalyze.
 
