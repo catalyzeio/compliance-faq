@@ -22,16 +22,16 @@ Our [Risk Management Policy][5] details the process and tools we use to do risk 
 
 # Are all Datica employees trained on HIPAA?
 
-Yes, all of our employees undergo annual HIPAA training. If you’re interested in using our training at your organization, you can access it [here][6]. 
+Yes, all of our employees undergo annual HIPAA training. If you’re interested in using our training at your organization, you can access it [here][6].
 
 # Does Datica have subcontractors? How does that work?
 
 Yes, Datica does leverage subcontractors for physical servers. In accordance with HIPAA, we have business associate agreements in place with all subcontracts. Our due diligence process for reviewing subcontractors is [here][7].
 
 [1]:	https://policy.datica.com/
-[2]:	https://policy.datica.com/#roles-policy
-[3]:	https://resources.datica.com/paas/paas-faq/buildpacks/
-[4]:	https://datica.com/paas
-[5]:	https://policy.datica.com/#risk-management-policy
+[2]:	https://policy.datica.com/#5.-roles-policy
+[3]:	https://resources.datica.com/compliant-cloud/articles/buildpacks/
+[4]:	https://datica.com/platform
+[5]:	https://policy.datica.com/#4.-risk-management-policy
 [6]:	https://training.datica.com/
-[7]:	https://policy.datica.com/#applicable-standards-from-the-hitrust-common-security-framework112
+[7]:	https://policy.datica.com/#4.1-applicable-standards
