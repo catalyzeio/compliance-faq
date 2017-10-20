@@ -12,7 +12,7 @@ All Datica data centers are currently located within the continental United Stat
 
 # How does Datica back up data for customers?
 
-Backups for all customers are performed daily. Seven days of backups are retained. This is documented in more detail [here][3]. Backups are sent to a different site. Disaster recovery related details are outlined here - https://policy.datica.com/#disaster-recovery-policy. 
+Backups for all customers are performed daily. Seven days of backups are retained. This is documented in more detail [here][3]. Backups are sent to a different site. Disaster recovery related details are outlined here - https://policy.datica.com/#13.-disaster-recovery-policy
 
 # Does Datica have a disaster recovery plan in place?
 
@@ -52,13 +52,13 @@ Yes, we leverage perimeter detection of DOS attacks. We automate blocking of IP 
 To restrict access to the bare minimum required, redundant, dedicated hardware firewalls are set up to deny all requests by default. Ports have to be opened specifically to cater to specific application and database needs. These hardware firewalls are deployed in a Virginia data center. SSH connections and direct serial port access are the only way to access firewalls.
 
 
-[1]:	https://policy.datica.com/#data-integrity-policy
+[1]:	https://policy.datica.com/#17.-data-integrity-policy
 [2]:	mailto:sales@datica.com
-[3]:	https://policy.datica.com/#backup-policy-and-procedures
-[4]:	https://policy.datica.com/#disaster-recovery-policy
-[5]:	https://policy.datica.com/#risk-management-policy
-[6]:	https://policy.datica.com/#intrusion-detection-policy
+[3]:	https://policy.datica.com/#6.2-backup-policy-and-procedures
+[4]:	https://policy.datica.com/#13.-disaster-recovery-policy
+[5]:	https://policy.datica.com/#4.-risk-management-policy
+[6]:	https://policy.datica.com/#15.-ids-policy
 [7]:	http://www.tenable.com/products/nessus-vulnerability-scanner
-[8]:	https://policy.datica.com/#vulnerability-scanning-policy97
-[9]:	https://policy.datica.com/#vulnerability-scanning-policy97
-[10]:	https://policy.datica.com/#intrusion-detection-policy
+[8]:	https://policy.datica.com/#16.-vulnerability-scanning-policy
+[9]:	https://policy.datica.com/#16.-vulnerability-scanning-policy
+[10]:	https://policy.datica.com/#15.-ids-policy

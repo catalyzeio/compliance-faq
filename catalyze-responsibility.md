@@ -17,13 +17,13 @@ Yes, our security team reviews logs on a set schedule as defined by our policies
 - For our BaaS and HL7 customers, we review application, database, network, and IDS logs, in addition to vulnerability scan results.
 - For our Compliant Cloud customers, we review network and IDS logs, in addition to vulnerability scan results.  
 
-If you have questions specifically about log review, please reach out to our [security team][3] or review the specific policies [here][4], [here][5], [here][6], and [here][7]. 
+If you have questions specifically about log review, please reach out to our [security team][3] or review the specific policies [here][4], [here][5], [here][6], and [here][7].
 
 
 [1]:	mailto:support@datica.com
-[2]:	https://policy.datica.com/#catalyze-breach-policy
+[2]:	https://policy.datica.com/#12.2-datica-breach-policy
 [3]:	mailto:security@datica.com
-[4]:	https://policy.datica.com/#auditing-policies
-[5]:	https://policy.datica.com/#intrusion-detection-policy
-[6]:	https://policy.datica.com/#data-integrity-policy
-[7]:	https://policy.datica.com/#vulnerability-scanning-policy97
+[4]:	https://policy.datica.com/#8.-auditing-policy
+[5]:	https://policy.datica.com/#15.-ids-policy
+[6]:	https://policy.datica.com/#17.-data-integrity-policy
+[7]:	https://policy.datica.com/#16.-vulnerability-scanning-policy
